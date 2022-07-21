@@ -6,7 +6,7 @@
 | :----------------------------: | :----------------: | 
 |     Dimas Agung Gumelar        |  195150201111032   |
 |  Muhammad Hafidh Ilmi Nafi'an  |  195150200111042   |  
-|   Muhammad Farid Muzayyani	   |  195150207111040   | 
+|   Lutfi	Mitra Tanjung		  	   |  195150220111001   | 
 
 ## About this Project
 
